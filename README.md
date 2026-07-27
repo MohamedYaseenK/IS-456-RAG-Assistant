@@ -1,1 +1,1 @@
-# IS 456 RAG chatbot — retrieval-augmented QA over the Indian Standard code for reinforced concrete
+# IS 456 RAG chatbot - retrieval-augmented QA over the Indian Standard code for reinforced concrete
