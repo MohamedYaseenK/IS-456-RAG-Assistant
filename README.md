@@ -1,1 +1,1 @@
-# LLM-Based-IS-456-QA-Agent
+# IS 456 RAG chatbot — retrieval-augmented QA over the Indian Standard code for reinforced concrete
