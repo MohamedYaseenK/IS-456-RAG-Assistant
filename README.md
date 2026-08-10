@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) chatbot that answers questions about **IS 456:2000**, the Indian Standard code for Plain and Reinforced Concrete — built end-to-end on a fully free tech stack as a portfolio project.
 
-🔗 **Live demo:** _[]_
+**Live demo:** _[https://is456rag.streamlit.app)]_
 
 ---
 
