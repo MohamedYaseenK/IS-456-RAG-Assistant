@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q001",
+    "category": "numeric_table",
+    "question": "What is the minimum grade of concrete for severe exposure condition in reinforced concrete?",
+    "ground_truth": "M30, as per Table 5 (Minimum Cement Content, Maximum Water-Cement Ratio and Minimum Grade of Concrete for Different Exposures)."
+  },
+  {
+    "id": "q002",
+    "category": "numeric_table",
+    "question": "What is the nominal concrete cover required for mild exposure condition?",
+    "ground_truth": "20 mm, as per Table 16 (Nominal Cover to Meet Durability Requirements)."
+  },
+  {
+    "id": "q003",
+    "category": "numeric_table",
+    "question": "What is the maximum free water-cement ratio for plain concrete under mild exposure?",
+    "ground_truth": "0.60, as per Table 5."
+  },
+  {
+    "id": "q004",
+    "category": "numeric_table",
+    "question": "What is the minimum cement content for reinforced concrete under mild exposure condition?",
+    "ground_truth": "300 kg/m3, as per Table 5."
+  },
+  {
+    "id": "q005",
+    "category": "numeric_table",
+    "question": "What is the maximum free water-cement ratio for reinforced concrete under severe exposure?",
+    "ground_truth": "0.45, as per Table 5."
+  },
+  {
+    "id": "q006",
+    "category": "numeric_table",
+    "question": "What is the characteristic compressive strength of M25 grade concrete?",
+    "ground_truth": "25 N/mm2, measured on a 150 mm cube at 28 days, as per Table 2 (Grades of Concrete)."
+  },
+  {
+    "id": "q007",
+    "category": "numeric_table",
+    "question": "What is the minimum grade of concrete permitted for reinforced concrete work?",
+    "ground_truth": "M20, as per clause 6.1.2 and Table 5."
+  },
+  {
+    "id": "q008",
+    "category": "prose",
+    "question": "What is the definition of nominal cover?",
+    "ground_truth": "Nominal cover is the design depth of concrete cover to all steel reinforcements, including links. It is the dimension used in design and indicated in the drawings, and shall not be less than the diameter of the bar (clause 26.4.1)."
+  },
+  {
+    "id": "q009",
+    "category": "prose",
+    "question": "What is the definition of characteristic strength of concrete?",
+    "ground_truth": "The characteristic strength is defined as the strength of material below which not more than 5 percent of the test results are expected to fall (clause 6.1.1)."
+  },
+  {
+    "id": "q010",
+    "category": "prose",
+    "question": "What is the definition of characteristic load?",
+    "ground_truth": "Characteristic load means that value of load which has a 95 percent probability of not being exceeded during the life of the structure (clause 36.2)."
+  },
+  {
+    "id": "q011",
+    "category": "prose",
+    "question": "When is a compression member (column) considered 'short' as per IS 456?",
+    "ground_truth": "A compression member may be considered short when both the slenderness ratios lex/D and ley/b are less than 12, where lex and ley are effective lengths in respect of the major and minor axes, and D and b are the corresponding depth/width (clause 25.1.2)."
+  },
+  {
+    "id": "q012",
+    "category": "prose",
+    "question": "What is the definition of a limit state?",
+    "ground_truth": "The acceptable limit for the safety and serviceability requirements before failure occurs is called a 'limit state'. The aim of design is to achieve an acceptable probability that the structure will not reach a limit state (clause 35.1)."
+  },
+  {
+    "id": "q013",
+    "category": "prose",
+    "question": "What is the minimum period of moist curing for concrete made with ordinary Portland cement?",
+    "ground_truth": "At least seven days from the date of placing concrete for ordinary Portland cement, and at least 10 days where mineral admixtures or blended cements are used (clause 13.5.1)."
+  },
+  {
+    "id": "q014",
+    "category": "prose",
+    "question": "What types of cement are permitted for use as per IS 456?",
+    "ground_truth": "Includes 33/43/53 grade ordinary Portland cement, rapid hardening Portland cement, Portland slag cement, Portland pozzolana cement (fly ash and calcined clay based), hydrophobic cement, low heat Portland cement, and sulphate resisting Portland cement (clause 5.1)."
+  },
+  {
+    "id": "q015",
+    "category": "multi_clause",
+    "question": "What is the difference between design mix concrete and nominal mix concrete?",
+    "ground_truth": "Design mix concrete has its proportions of cement, aggregates, and water determined by mix design to achieve required strength, durability, and workability. Nominal mix concrete uses fixed nominal proportions without a formal mix design, and is only permitted for concrete of grade M20 or lower when design mix cannot be used (clause 9.1)."
+  },
+  {
+    "id": "q016",
+    "category": "multi_clause",
+    "question": "What factors influence the durability of concrete?",
+    "ground_truth": "The environment, the cover to embedded steel, the type and quality of constituent materials, the cement content and water/cement ratio of the concrete, workmanship (compaction and curing), and the shape and size of the member (clause 8.1.1)."
+  },
+  {
+    "id": "q017",
+    "category": "multi_clause",
+    "question": "What are the categories of workability of concrete and how are they measured?",
+    "ground_truth": "Workability is categorized as very low, low, medium, high, and very high, generally measured in terms of slump (mm) as per IS 1199, ranging roughly from very low (compacting factor method used) up to very high (100-150 mm slump) depending on placing conditions (clause 7.1)."
+  },
+  {
+    "id": "q018",
+    "category": "multi_clause",
+    "question": "What is the effective span of a cantilever beam?",
+    "ground_truth": "The effective length of a cantilever shall be taken as its length to the face of the support plus half the effective depth, except where it forms the end of a continuous beam, in which case the length to the centre of support shall be taken (clause 22.2(c))."
+  },
+  {
+    "id": "q019",
+    "category": "numeric_table",
+    "question": "What is the maximum size of aggregate generally recommended for most concrete work?",
+    "ground_truth": "20 mm nominal maximum size is suitable for most work; up to 40 mm may be permitted where there is no restriction to flow of concrete (clause 5.3.3)."
+  },
+  {
+    "id": "q020",
+    "category": "prose",
+    "question": "What is the minimum grade of concrete required for concrete in sea-water for plain and reinforced concrete respectively?",
+    "ground_truth": "M20 for plain concrete and M30 for reinforced concrete, as per clause 8.2.8."
+  }
+]
